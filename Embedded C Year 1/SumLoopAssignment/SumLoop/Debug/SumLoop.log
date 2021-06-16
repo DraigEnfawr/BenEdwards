@@ -1,0 +1,6 @@
+﻿  sumLoopAssignment.c
+e:\work\portfolio\embedded c y1\sumloopassignment\sumloop\sumloopassignment.c(31): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+e:\work\portfolio\embedded c y1\sumloopassignment\sumloop\sumloopassignment.c(31): warning C4024: 'modifyArray': different types for formal and actual parameter 2
+e:\work\portfolio\embedded c y1\sumloopassignment\sumloop\sumloopassignment.c(46): warning C4013: 'getch' undefined; assuming extern returning int
+e:\work\portfolio\embedded c y1\sumloopassignment\sumloop\sumloopassignment.c(53): warning C4047: '<': 'int' differs in levels of indirection from 'int *'
+  SumLoop.vcxproj -> E:\WORK\Portfolio\Embedded C Y1\SumLoopAssignment\Debug\SumLoop.exe
